@@ -213,9 +213,9 @@ Data Science Student | AI/ML Enthusiast | Data Analytics Enthusiast
 
 ### Connect With Me
 
-- LinkedIn: [Add Your LinkedIn Profile](https://www.linkedin.com/in/rajat-kantode-14486528b/)
-- GitHub: [Add Your GitHub Profile](https://github.com/RajatKantode)
-- Email: [Add your Email](rajatskantode2@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rajat-kantode-14486528b/)
+- GitHub: [GitHub Profile](https://github.com/RajatKantode)
+- Email: [Email](rajatskantode2@gmail.com)
 
 ---
 
